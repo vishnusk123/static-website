@@ -1,0 +1,21 @@
+.About-section{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 8px rgb(78, 77, 77);
+    max-width: 900px;
+    margin: 30px auto;
+}
+.txt-color{
+    color: rgb(29, 79, 137);
+}
+body{
+    background-color: rgb(208, 233, 240);
+}
+.img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 9px;
+}

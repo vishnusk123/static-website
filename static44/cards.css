@@ -1,0 +1,28 @@
+.posters{
+    padding: 20px;
+    text-align: center;
+}
+.poster-grid{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.poster-card{
+    border: 1px solid coral;
+    width: 200%;
+    height: 100px;
+}
+.poster-card button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
+.poster-card button:hover{
+    background-color: rgb(56, 54, 54);
+
+}
+.poster-card img{
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,27 @@
+.contact-container{
+    width: 400px;
+    margin: 100px;
+    padding: 20px;
+    background-color: rgb(196, 196, 146);
+    border-radius: 4px;
+}
+h1{
+    text-align: center;
+}
+button{
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(46, 80, 12);
+    color: aliceblue;
+    border-radius: 4px;
+    margin-left: 150px;
+}
+input{
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+}
+textarea{
+    border-radius: 15px;
+}
